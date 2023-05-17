@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1673268594 source:c:\users\microsoft\downloads\·«» 7 oop\main.cpp
+	<iostream>
+	"child1.h"
+	"child2.h"
+	"Derived.h"
+
+1673268619 c:\users\microsoft\downloads\·«» 7 oop\include\child1.h
+	"parent.h"
+
+1673266238 c:\users\microsoft\downloads\·«» 7 oop\include\child2.h
+
+1673268652 c:\users\microsoft\downloads\·«» 7 oop\include\derived.h
+	"child1.h"
+	"child2.h"
+
+1673268509 c:\users\microsoft\downloads\·«» 7 oop\include\parent.h
+
+1673274647 source:e:\oop\day seven\·«» 7 oop\main.cpp
+	<iostream>
+	"child1.h"
+	"child2.h"
+	"Derived.h"
+
+1673268619 e:\oop\day seven\·«» 7 oop\include\child1.h
+	"parent.h"
+
+1673268509 e:\oop\day seven\·«» 7 oop\include\parent.h
+
+1673266238 e:\oop\day seven\·«» 7 oop\include\child2.h
+
+1673268652 e:\oop\day seven\·«» 7 oop\include\derived.h
+	"child1.h"
+	"child2.h"
+

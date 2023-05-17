@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1673340360 source:c:\users\microsoft\downloads\·«» 8 oop\main.cpp
+	<iostream>
+	"list.h"
+
+1673340237 c:\users\microsoft\downloads\·«» 8 oop\include\list.h
+	<iostream>
+
+1673529422 source:e:\oop\day eight\·«» 8 oop\main.cpp
+	<iostream>
+	"list.h"
+
+1673340237 e:\oop\day eight\·«» 8 oop\include\list.h
+	<iostream>
+

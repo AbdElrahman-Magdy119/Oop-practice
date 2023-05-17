@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1673179906 source:c:\users\microsoft\downloads\·«» 5 oop\main.cpp
+	<iostream>
+	"point.h"
+	"line.h"
+	"Recatngle.h"
+	"shape.h"
+	"circle.h"
+
+1673178474 c:\users\microsoft\downloads\·«» 5 oop\include\point.h
+
+1673179082 c:\users\microsoft\downloads\·«» 5 oop\include\line.h
+	"point.h"
+	"math.h"
+
+1673179784 c:\users\microsoft\downloads\·«» 5 oop\include\recatngle.h
+	"shape.h"
+
+1673179366 c:\users\microsoft\downloads\·«» 5 oop\include\shape.h
+
+1673179784 c:\users\microsoft\downloads\·«» 5 oop\include\circle.h
+	"shape.h"
+

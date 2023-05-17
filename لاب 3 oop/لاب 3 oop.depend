@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1673118370 source:c:\users\microsoft\downloads\·«» 3 oop\main.cpp
+	<iostream>
+	"fraction.h"
+
+1673118361 c:\users\microsoft\downloads\·«» 3 oop\include\fraction.h
+	<iostream>
+
+1673118463 source:e:\oop\day three\·«» 3 oop\main.cpp
+	<iostream>
+	"fraction.h"
+
+1673336620 e:\oop\day three\·«» 3 oop\include\fraction.h
+	<iostream>
+

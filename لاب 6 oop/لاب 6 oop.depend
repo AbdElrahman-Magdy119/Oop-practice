@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1673200026 source:c:\users\microsoft\downloads\·«» 6 oop\main.cpp
+	<iostream>
+	"Rectangle.h"
+	"circle.h"
+	"shape.h"
+	"picture.h"
+
+1673198219 c:\users\microsoft\downloads\·«» 6 oop\include\rectangle.h
+	"shape.h"
+	<iostream>
+
+1673199561 c:\users\microsoft\downloads\·«» 6 oop\include\circle.h
+	"shape.h"
+	<iostream>
+
+1673199772 c:\users\microsoft\downloads\·«» 6 oop\include\shape.h
+	<iostream>
+
+1673199750 c:\users\microsoft\downloads\·«» 6 oop\include\picture.h
+	<iostream>
+	"shape.h"
+
+1673200026 source:e:\oop\day six\·«» 6 oop\main.cpp
+	<iostream>
+	"Rectangle.h"
+	"circle.h"
+	"shape.h"
+	"picture.h"
+
+1673198219 e:\oop\day six\·«» 6 oop\include\rectangle.h
+	"shape.h"
+	<iostream>
+
+1673199772 e:\oop\day six\·«» 6 oop\include\shape.h
+	<iostream>
+
+1673199561 e:\oop\day six\·«» 6 oop\include\circle.h
+	"shape.h"
+	<iostream>
+
+1673199750 e:\oop\day six\·«» 6 oop\include\picture.h
+	<iostream>
+	"shape.h"
+
